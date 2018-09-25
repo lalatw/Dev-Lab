@@ -19,7 +19,7 @@ Follow the deployed project link below to utilize the application.
 ### Deployed Project Link
 <!-- make a link to the deployed site -->
  
-[Dev Lab](devlab.herokuapp.com)
+devlab.herokuapp.com
 
 
 ### Image Preview of DevLab
